@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185779568260",
+    "firebase_url": "https://listar-flux-pro-60570.firebaseio.com",
+    "project_id": "listar-flux-pro-60570",
+    "storage_bucket": "listar-flux-pro-60570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185779568260:android:3d7b40efb51a1f51a30cd1",
+        "android_client_info": {
+          "package_name": "com.huynh.listar_flutter_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185779568260-b6iko25cuh2eio3bbmqd27jmlfpc7lhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYb5T8-iFj_PgKLVd5h4J5Y_N4vVFyK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185779568260-b6iko25cuh2eio3bbmqd27jmlfpc7lhm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185779568260-01c9sudhhtva6sdnb3oc7o7kuavb340m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.huynh.listarFlutterExtend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

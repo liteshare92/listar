@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1073985973648",
+    "firebase_url": "https://senglobalnegoce-b1186.firebaseio.com",
+    "project_id": "senglobalnegoce-b1186",
+    "storage_bucket": "senglobalnegoce-b1186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073985973648:android:78b1bc894ff6199b46d715",
+        "android_client_info": {
+          "package_name": "com.senglobalnegoce.listar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073985973648-5bn1qj6a1l72uqp5m7ledto49b8qeb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrerRin3k1GeFvoiKXmxC-1HNP4Zuwyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073985973648-5bn1qj6a1l72uqp5m7ledto49b8qeb5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073985973648:android:272818475fbaa7db46d715",
+        "android_client_info": {
+          "package_name": "com.senglobalnegoce.listing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073985973648-5bn1qj6a1l72uqp5m7ledto49b8qeb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrerRin3k1GeFvoiKXmxC-1HNP4Zuwyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073985973648-5bn1qj6a1l72uqp5m7ledto49b8qeb5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
